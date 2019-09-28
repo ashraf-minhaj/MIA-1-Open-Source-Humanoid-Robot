@@ -1,6 +1,13 @@
-/* BUbot 
- *  
- */
+  
+/* Mia-1 Open Source Humanoid Robot */
+
+/*
+Mia-1 the advanced open source humanoid robot.
+author: Ashraf Minhaj
+mail  : ashraf_minhaj@yahoo.com
+blog  : ashrafminhajfb.blogspot.com
+        http://youtube.com/fusebatti
+*/
 
 #include <Servo.h>
 
