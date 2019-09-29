@@ -35,7 +35,7 @@ except:
   pass
 
 #url with NASA API
-url = "https://api.nasa.gov/planetary/apod?api_key=XuA9Df1tjIk3dnWNrcgDhZ0fRZyb333sfra8VDBF"
+url = "https://api.nasa.gov/planetary/apod?api_key=YOUR_API_KEY_HERE"
 
 #Voice ID-male/female/language
 voice_id = "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0"
