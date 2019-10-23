@@ -21,7 +21,7 @@ Servo left2;
 Servo left3;
 Servo left4;
 
-Servo komor;
+Servo komor;    //waist servo
 Servo rFinger;
 Servo lFinger;
 
